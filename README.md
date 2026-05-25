@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kevin%20Sanchez%20Avila&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Building%20ideas%20into%20reality&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:6b0000,100:cc2200&height=180&section=header&text=Kevin%20Sanchez%20Avila&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Building%20ideas%20into%20reality&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Fullstack+Developer;Always+learning%2C+always+building;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kevin+%F0%9F%91%8B;Fullstack+Developer;Always+learning%2C+always+building;Turning+coffee+into+code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -116,8 +116,8 @@ const kevin = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kevin9SA&color=6AD3F7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Kevin9SA&color=cc2200&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc2200,50:6b0000,100:0d0000&height=100&section=footer" width="100%"/>
 
 </div>
