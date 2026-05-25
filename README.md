@@ -14,7 +14,6 @@
 const kevin = {
   name: "Kevin Sanchez Avila",
   role: "Fullstack Developer",
-  location: "🌎 Latin America",
   passions: ["Clean Code", "UI/UX", "Open Source", "Problem Solving"],
   currentlyLearning: ["Cloud Architecture", "DevOps", "AI Integration"],
   funFact: "I debug with console.log and I'm not ashamed 😄"
